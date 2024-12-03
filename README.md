@@ -1,4 +1,4 @@
-# Accordion Component
+# Accordion 
 This project is a simple Accordion Component built with React. The Accordion displays a list of frequently asked questions (FAQs). Each question can be expanded or collapsed to show or hide its respective answer. Additionally, a custom accordion item has been added for demonstration purposes.
 
 # Features
